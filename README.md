@@ -9,6 +9,7 @@ Full Stack Developer
 * 🖥️  See my portfolio at [My projects](https://angeleyeportfolio.netlify.app/)
 * ✉️  You can contact me at [oxangyal@gmail.com](mailto:oxangyal@gmail.com)
 * 🚀  I'm currently working on [PlayerBuddy](https://github.com/Code-the-Dream-School/ee-prac-team1-front)
+* [Web](https://playerbuddy.vercel.app/) 
 * 🧠  I'm learning Node.js and TypeScript
 * 🤝  I'm open to collaborating on Open Source projects
 
