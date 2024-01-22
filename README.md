@@ -8,6 +8,7 @@ Full Stack Developer
 * 🌍  I'm based in Boston, MA, US
 * 🖥️  See my portfolio at [My projects](https://angeleyeportfolio.netlify.app/)
 * ✉️  You can contact me at [oxangyal@gmail.com](mailto:oxangyal@gmail.com)
+*  🚀  I'm currently working on [PlayerBuddy mobile app](https://playerbuddy.vercel.app/) 
 
 ### Skills
 
