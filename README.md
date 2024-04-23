@@ -7,7 +7,7 @@ Web Developer
 
 * 🌍  I'm based in Boston, MA, US
 * ✉️  You can contact me at [oxangyal@gmail.com](mailto:oxangyal@gmail.com)
-*  🚀  I'm currently working on [GetYourTutor app]([https://tri-fit.vercel.app/]
+*  🚀  I'm currently working on GetYourTutor app [https://tri-fit.vercel.app/]
 
 ### Skills
 
