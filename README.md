@@ -8,7 +8,8 @@ Full Stack Developer
 * 🌍  I'm based in Boston, MA, US
 * 🖥️  See my [portfolio](https://angeleyeportfolio.vercel.app/) 
 * ✉️  You can contact me at [oxangyal@gmail.com](mailto:oxangyal@gmail.com)
-*  🚀  I'm currently working on [GetYourTutor App](https://getyourtutor.vercel.app/) and [ThriveOutLoud App](https://thriveoutloud.vercel.app/)
+* 🚀  I'm currently working on [GetYourTutor App](https://getyourtutor.vercel.app/) and [ThriveOutLoud App](https://thriveoutloud.vercel.app/)
+* 📚  I'm currently learning Ruby on Rails.
 
 
 ### Skills
