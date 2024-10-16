@@ -9,7 +9,7 @@ Full Stack Developer
 * 🖥️  See my [portfolio](https://angeleyeportfolio.vercel.app/) 
 * ✉️  You can contact me at [oxangyal@gmail.com](mailto:oxangyal@gmail.com)
 * 🚀  I'm currently working on [GetYourTutor App](https://getyourtutor.vercel.app/) and [ThriveOutLoud App](https://thriveoutloud.vercel.app/)
-* 📚  I'm currently learning Ruby on Rails.
+* 📚  I'm currently building Ruby on Rails e commerce project [Art Sphere](https://github.com/oxangyal/ArtSphere) 
 
 
 ### Skills
