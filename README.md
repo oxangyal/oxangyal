@@ -5,10 +5,17 @@ Hi ! [](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32
 Full Stack Developer
 -------------------
 
-* 🌍  I'm based in Boston, MA, US
+* 🌍  I'm based in Boston, MA
 * 🖥️  See my [portfolio](https://angeleyeportfolio.vercel.app/) 
 * ✉️  You can contact me at [oxangyal@gmail.com](mailto:oxangyal@gmail.com)
-* <h3 align="left">Languages and Tools:</h3>
+
+* 🔒 My Current Projects (Private Repos)
+
+-  **AIRHub** — AI-powered assignment review platform · `Next.js` `MongoDB` `OpenAI`
+-  **¡Oye!** — A2P SMS/MMS broadcast messaging platform · `Ruby on Rails` `PostgreSQL`
+
+> Source code is private (proprietary to CTD Labs) - full walkthrough available upon request.
+<h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
